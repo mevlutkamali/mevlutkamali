@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mevlüt KAMALI</h1>
 <h3 align="center">Hello everyone, I am Mevlüt KAMALI. I am a 2nd year student of Konya Technical University Computer Programming. I constantly prepare myself in Python in the field of artificial intelligence, mathematics and whatever can be used in the sector in the field of software . . .</h3>
 
+https://www.linkedin.com/in/mevlüt-kamali-151580265/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mevlüt kamali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mevlüt kamali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mevlüt kamali" target="blank"><img align="center" src="[https://raw.githubusercontent.com](https://www.linkedin.com/in/mevlüt-kamali-151580265/)/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mevlüt kamali" height="30" width="40" /></a>
 <a href="https://instagram.com/kamalimevlut21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamalimevlut21" height="30" width="40" /></a>
 <a href="https://medium.com/mevlüt kamali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mevlüt kamali" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mevlüt kamali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mevlüt kamali" height="30" width="40" /></a>
