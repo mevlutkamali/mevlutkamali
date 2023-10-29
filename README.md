@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mevlüt KAMALI</h1>
-<h3 align="center">Hello everyone, I am Mevlüt KAMALI. I am a 2nd year student of Konya Technical University Computer Programming. I constantly prepare myself in Python in the field of artificial intelligence, mathematics and whatever can be used in the sector in the field of software . . .</h3>
+<h3 align="center">Hello everyone, I am Mevlüt KAMALI. I am a 2nd year student of Konya Technical University Computer. I constantly prepare myself in Python in the field of artificial intelligence, mathematics and whatever can be used in the sector in the field of software . . .</h3>
 
 https://www.linkedin.com/in/mevlüt-kamali-151580265/
 
