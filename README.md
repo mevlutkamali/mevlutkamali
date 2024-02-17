@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mevlüt KAMALI</h1>
-<h3 align="center">Hello everyone, I am Mevlüt KAMALI. I am a 2nd year student of Konya Technical University Computer. I constantly prepare myself in Python in the field of artificial intelligence, mathematics and whatever can be used in the sector in the field of software . . . In my personal projects, I analyze artificial intelligence and mathematical problems together. Additionally, I develop solutions for real-world problems using the powerful libraries provided by Python. I particularly focus on data science and machine learning fields, which helps me both reinforce my theoretical knowledge and enhance my practical skills. My goal is to continuously update myself according to the requirements of the industry and provide the best solutions possible.</h3>
+<h1 align="center">
+   Hi 👋, I'm Mevlüt KAMALI
+</h1>
+<h3 align="center">
+   Hello everyone, I am Mevlüt KAMALI. I am a 2nd year student of Konya Technical University Computer. I constantly prepare myself in Python in the field of artificial intelligence, mathematics and whatever can be used in the sector in the field of software . . . In my personal projects, I analyze artificial intelligence and mathematical problems together. Additionally, I develop solutions for real-world problems using the powerful libraries provided by Python. I particularly focus on data science and machine learning fields, which helps me both reinforce my theoretical knowledge and enhance my practical skills. My goal is to continuously update myself according to the requirements of the industry and provide the best solutions possible.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
    <p align="left">
