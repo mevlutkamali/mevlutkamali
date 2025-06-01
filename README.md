@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mevlüt KAMALI.</h1>
-<h3 align="center">I studied Computer Science at Konya Technical University until the second year but had to pause my education due to certain circumstances. However, I didn’t give up. I’m currently continuing my studies in Web Programming at Anadolu University. I’m actively working in the fields of software development and cybersecurity, with a strong focus on becoming a Pentester (penetration tester). I’m passionate about coding and continuously improving myself by combining intelligence, mathematics, and technology to create solutions that can be applied in real-world scenarios. In my personal projects, I analyze artificial intelligence and mathematical problems together, which helps me strengthen my theoretical knowledge while improving my practical skills. I particularly use Python and its powerful libraries to develop solutions for real-life challenges. My goal is to continuously adapt myself to the needs of the industry and offer the best possible solutions through constant learning and development.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mevlutkamali" alt="mevlutkamali" /></a> </p>
+<h1 align="center">
+  Hi 👋, I'm Mevlüt KAMALI.
+</h1>
+<h3 align="center">
+    I studied Computer Science at Konya Technical University until the second year but had to pause my education due to certain circumstances. However, I didn’t give up. I’m currently continuing my studies in Web Programming at Anadolu University. I’m actively working in the fields of software development and cybersecurity, with a strong focus on becoming a Pentester (penetration tester). I’m passionate about coding and continuously improving myself by combining intelligence, mathematics, and technology to create solutions that can be applied in real-world scenarios. In my personal projects, I analyze artificial intelligence and mathematical problems together, which helps me strengthen my theoretical knowledge while improving my practical skills. I particularly use Python and its powerful libraries to develop solutions for real-life challenges. My goal is to continuously adapt myself to the needs of the industry and offer the best possible solutions through constant learning and development.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
